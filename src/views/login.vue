@@ -123,7 +123,7 @@ export default {
 					type: 'success'
 				});
 				setTimeout(() => {
-					this.$router.push('/');
+					this.$router.push('/home');
 				}, 1000);
 			}
 		},

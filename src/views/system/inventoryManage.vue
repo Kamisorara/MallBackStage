@@ -1,14 +1,19 @@
 <template>
-	<div>商品库存界面（正在开发中）</div>
+	<div>
+
+	</div>
 </template>
 
 <script>
 export default {
-	name: 'inventoryManage',
 	data() {
-		return {};
+		return {
+			
+		};
 	},
-	methods: {}
+	methods: {
+
+	}
 };
 </script>
 
