@@ -6,10 +6,15 @@
 
 ## Project setup
 ```
+
 npm install element-ui --save
+
 npm install qs --save
+
 npm install axios --save
+
 npm install
+
 ```
 ### Compiles and hot-reloads for development
 ```
